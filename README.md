@@ -1,2 +1,0 @@
-# captaincapsaicin.github.io
-Website
