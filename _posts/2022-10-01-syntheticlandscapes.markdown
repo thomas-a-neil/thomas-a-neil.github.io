@@ -5,7 +5,7 @@ date:   2022-01-21 22:21:59 +00:00
 image: /images/tuning.png
 categories: highlights
 author: "Neil Thomas"
-authors: "<u>Neil Thomas</u>, Atish Agarwala, David Belanger, Yun S. Song, Lucy J. Colwell"
+authors: "<u>Neil Thomas</u>*, Atish Agarwala*, David Belanger, Yun S. Song, Lucy J. Colwell"
 venue: "bioRxiv"
 paper: https://www.biorxiv.org/content/10.1101/2022.10.28.514293v1
 code: https://github.com/google-research/slip
