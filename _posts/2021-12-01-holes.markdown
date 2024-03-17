@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Minding the gaps: The importance of navigating holes in protein fitness landscapes"
+date:   2021-12-21 22:21:59 +00:00
+image: images/holes.png
+categories: research
+author: "Neil Thomas"
+authors: "Neil Thomas, Lucy Colwell"
+venue: "Cell Systems"
+paper: https://www.sciencedirect.com/science/article/abs/pii/S2405471221004154
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Functional genomics of OCTN2 variants informs protein-specific variant effect predictor for Carnitine Transporter Deficiency"
+date:   2022-01-21 22:21:59 +00:00
+image: images/octn2.png
+categories: research
+author: "Neil Thomas"
+authors: "Megan L. Koleske, Gregory McInnes, Julia E. H. Brown, <u>Neil Thomas</u>, ... Yun S. Song, Russ B. Altman, Kathleen M. Giacomini, <i>et al.</i>"
+venue: "PNAS"
+paper: https://www.pnas.org/doi/10.1073/pnas.2210247119
+---
