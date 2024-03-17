@@ -3,7 +3,7 @@ layout: post
 title:  "Interpreting Potts and Transformer Protein Models Through the Lens of Simplified Attention"
 date:   2022-01-21 22:21:59 +00:00
 image: images/fatt.png
-categories: research
+categories: highlights
 author: "Neil Thomas"
 authors: "Nicholas Bhattacharya*, <u>Neil Thomas</u>*, Roshan Rao, Justas Dauparas, Peter K. Koo, David Baker, Yun S. Song, Sergey Ovchinnikov"
 venue: "Pacific Symposium on Biocomputing"

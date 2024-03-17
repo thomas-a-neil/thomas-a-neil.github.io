@@ -3,7 +3,7 @@ layout: post
 title:  "Tuned Fitness Landscapes for Benchmarking Model-Guided Protein Design"
 date:   2022-01-21 22:21:59 +00:00
 image: /images/tuning.png
-categories: research
+categories: highlights
 author: "Neil Thomas"
 authors: "<u>Neil Thomas</u>, Atish Agarwala, David Belanger, Yun S. Song, Lucy J. Colwell"
 venue: "bioRxiv"

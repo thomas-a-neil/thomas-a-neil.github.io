@@ -6,6 +6,6 @@ image: images/holes.png
 categories: research
 author: "Neil Thomas"
 authors: "Neil Thomas, Lucy Colwell"
-venue: "Cell Systems"
+venue: "Cell Systems (Preview)"
 paper: https://www.sciencedirect.com/science/article/abs/pii/S2405471221004154
 ---
