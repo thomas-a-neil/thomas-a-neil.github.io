@@ -7,7 +7,7 @@ categories: research
 author: "Neil Thomas"
 authors: "<u>Neil Thomas</u>, Atish Agarwala, David Belanger, Yun S. Song, Lucy J. Colwell"
 venue: "bioRxiv"
-preprint: https://www.biorxiv.org/content/10.1101/2022.10.28.514293v1
+paper: https://www.biorxiv.org/content/10.1101/2022.10.28.514293v1
 code: https://github.com/google-research/slip
 twitter: https://twitter.com/countablyfinite/status/1594792583393595392
 ---

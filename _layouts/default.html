@@ -34,13 +34,13 @@
               <h1>
                 Neil Thomas
               </h1>
-              <p>I work at the intersection of AI and biology. I was a Research Scientist at <a href="https://x.company">Google X</a>.
+              <p>I work at the intersection of AI and biology. I am currently at a startup building AI tools for protein design. Previously, I was a Research Scientist at <a href="https://x.company">Google X</a>.
               </p>
               <p>
                 I completed my PhD at the UC Berkeley in 2022, advised by <a href="https://people.eecs.berkeley.edu/~yss/">Yun S. Song</a>. Prior to that, I was an AI Resident at Google X and a Software Engineer at <a href="https://www.23andme.com">23andMe</a>. I received my BS in Engineering Mathematics and Statistics from UC Berkeley.
               </p>
               <p>
-                I like cooking Alison Roman recipes, <a href="https://www.youtube.com/watch?v=Y3K7Qc6vW5Q">comedy</a>, mountains, and ultimate frisbee.
+                When I'm not being humbled by biology, I like to be humbled by a variety of hobbies, including cooking Alison Roman recipes, rock climbing, skiing, ultimate frisbee, cycling, piano, <a href="https://www.youtube.com/watch?v=Y3K7Qc6vW5Q">comedy</a>, and watering my plants.
               </p>
               <p style="text-align:center">
                 <a target="_blank" href="https://mailhide.io/e/PZby1vuh">email</a> &nbsp;/&nbsp;
@@ -78,39 +78,25 @@
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
+              
               <br>
               {{post.authors}}
-
               <br>
+
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.preprint %}
-              <a href="{{post.preprint}}">preprint</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.twitter %}
-              <a href="{{post.twitter}}">tweetorial</a> /
-              {% endif %}
-              {% if post.talk %}
-              <a href="{{post.talk}}">talk</a> /
-              {% endif %}
-              {% if post.podcast %}
-              <a href="{{post.podcast}}">podcast</a> /
-              {% endif %}
-              {% if post.blog %}
-              <a href="{{post.blog}}">blog</a> /
-              {% endif %}
+              {% capture links %}
+                {% if post.paper %}<a href="{{post.paper}}">paper</a>{% endif %}
+                {% if post.preprint %}/ <a href="{{post.preprint}}">preprint</a>{% endif %}
+                {% if post.code %}/ <a href="{{post.code}}">code</a>{% endif %}
+                {% if post.slides %}/ <a href="{{post.slides}}">slides</a>{% endif %}
+                {% if post.website %}/ <a href="{{post.website}}">website</a>{% endif %}
+                {% if post.twitter %}/ <a href="{{post.twitter}}">tweetorial</a>{% endif %}
+                {% if post.talk %}/ <a href="{{post.talk}}">talk</a>{% endif %}
+                {% if post.podcast %}/ <a href="{{post.podcast}}">podcast</a>{% endif %}
+                {% if post.blog %}/ <a href="{{post.blog}}">blog</a>{% endif %}
+              {% endcapture %}
+              {{ links}}
               <p></p>
               {{ post.excerpt }}
             </td>
