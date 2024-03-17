@@ -10,7 +10,7 @@ venue: "Advances in Neural Information Processing Systems"
 paper: https://papers.nips.cc/paper/9163-evaluating-protein-transfer-learning-with-tape.pdf
 code: https://github.com/songlab-cal/tape
 twitter: https://twitter.com/countablyfinite/status/1141525626509115392
-talk: https://slideslive.com/38923279
+talk: https://slideslive.com/38923279?time=618
 podcast: https://soundcloud.com/nlp-highlights/99-evaluating-protein-transfer-learning-with-roshan-rao-and-neil-thomas
 blog: https://bair.berkeley.edu/blog/2019/11/04/proteins/
 ---
