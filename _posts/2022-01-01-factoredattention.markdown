@@ -12,4 +12,4 @@ code: https://github.com/songlab-cal/factored-attention
 twitter: https://twitter.com/countablyfinite/status/1347302237182152705
 talk: https://www.loom.com/share/a08b71c17a1145fcbd9a3946b5d20e9a
 ---
-Introduces "factored attention," a simplified attention layer that, in a certain limit, recovers a Potts model.
+Introduces "factored attention," a simplified attention layer that we use to compare and contrast Potts models and Transformers.
