@@ -7,7 +7,7 @@ categories: highlights
 author: "Neil Thomas"
 authors: "<u>Neil Thomas</u>*, David Belanger*, Chenling Xu, Hanson Lee, Kathleen Hirano, Kosuke Iwai, Vanja Polic, Kendra Nyberg, Kevin Hoff, Lucas Frenz, Charlie Emrich, Jun W Kim, Mariya Chavarha, Abi Ramanan, Jeremy Agresti, Lucy J Colwell"
 venue: "bioRxiv"
-paper: https://www.biorxiv.org/content/10.1101/2024.03.21.585615v2
+paper: https://doi.org/10.1101/2024.03.21.585615
 code: https://github.com/google-deepmind/nuclease_design
 ---
 Designed thousands of highly active, diverse nuclease enzymes using neural network models trained on experimental screening data, outperforming a traditional in vitro directed evolution campaign.
