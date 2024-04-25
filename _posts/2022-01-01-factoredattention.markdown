@@ -7,7 +7,7 @@ categories: highlights
 author: "Neil Thomas"
 authors: "Nicholas Bhattacharya*, <u>Neil Thomas</u>*, Roshan Rao, Justas Dauparas, Peter K. Koo, David Baker, Yun S. Song, Sergey Ovchinnikov"
 venue: "Pacific Symposium on Biocomputing"
-paper: https://psb.stanford.edu/psb-online/proceedings/psb22/bhattacharya.pdf
+paper: https://doi.org/10.1101/2020.12.21.423882
 code: https://github.com/songlab-cal/factored-attention
 twitter: https://twitter.com/countablyfinite/status/1347302237182152705
 talk: https://www.loom.com/share/a08b71c17a1145fcbd9a3946b5d20e9a
