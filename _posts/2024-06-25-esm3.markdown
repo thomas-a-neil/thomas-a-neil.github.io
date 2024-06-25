@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Simulating 500 million years of evolution with a language model"
+date:   2024-06-25 06:21:59 +00:00
+image: images/esm3.png
+categories: highlights
+author: "Neil Thomas"
+authors: "Thomas Hayes*, Roshan Rao*, Halil Akin*, Nicholas James Sofroniew*, Deniz Oktay*, Zeming Lin*, Robert Verkuil*, Vincent Quy Tran, Jonathan Deaton, Marius Wiggert, Rohil Badkundri, Irhum Shafkat, Jun Gong, Alexander Derry, Raul Santiago Molina, Neil Thomas, Yousuf Khan, Chetan Mishra, Carolyn Kim, Liam J. Bartie, Patrick D. Hsu, Tom Sercu, Salvatore Candido, Alexander Rives"
+venue: "bioRxiv"
+paper: https://evolutionaryscale-public.s3.us-east-2.amazonaws.com/research/esm3.pdf
+code: https://github.com/evolutionaryscale/esm
+twitter: https://twitter.com/THayes427/status/1805672662909567057
+blog: https://www.evolutionaryscale.ai/blog/esm3-release
+---
+A multi-modal generative protein model that reasons flexibly across protein structure, function, and sequence.
