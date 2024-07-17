@@ -9,5 +9,6 @@ authors: "<u>Neil Thomas</u>*, David Belanger*, Chenling Xu, Hanson Lee, Kathlee
 venue: "bioRxiv"
 paper: https://doi.org/10.1101/2024.03.21.585615
 code: https://github.com/google-deepmind/nuclease_design
+talk: https://www.youtube.com/watch?v=eGNERw_nKQM
 ---
 Designed thousands of highly active, diverse nuclease enzymes using neural network models trained on experimental screening data, outperforming a traditional in vitro directed evolution campaign.
