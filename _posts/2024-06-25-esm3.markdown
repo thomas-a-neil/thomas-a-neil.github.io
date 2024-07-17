@@ -11,5 +11,6 @@ paper: https://doi.org/10.1101/2024.07.01.600583
 code: https://github.com/evolutionaryscale/esm
 twitter: https://twitter.com/THayes427/status/1805672662909567057
 blog: https://www.evolutionaryscale.ai/blog/esm3-release
+talk: https://stanford.zoom.us/rec/play/XguxDAbm0K8jXzjL2lDJC1jCUdDKGxKrY0M_5YgETHT0CGKeB7XDPj5luSSB4Vpk1AoieXJRddd69aPx.sa-4zkyaG3C9q3Pw?canPlayFromShare=true&from=share_recording_detail&startTime=1720560732000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2FBHqKIS4yfoeSRuIbkAFLrJk7PDf28E78nPDZ61fJJ0bYKZhnFjITItwfl7S2xhVK.1bVluu1XmtuoD5Lk%3FstartTime%3D1720560732000
 ---
 A multi-modal generative protein model that reasons flexibly across protein structure, function, and sequence.
