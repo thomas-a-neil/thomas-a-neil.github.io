@@ -11,4 +11,4 @@ paper: https://doi.org/10.1101/2024.03.21.585615
 code: https://github.com/google-deepmind/nuclease_design
 talk: https://www.youtube.com/watch?v=eGNERw_nKQM
 ---
-Designed thousands of highly active, diverse nuclease enzymes using neural network models trained on experimental screening data, outperforming a traditional in vitro directed evolution campaign.
+Introduces TeleProt, a framework for guiding protein library design with machine learning that leverages evolutionary and experimental data. Validates TeleProt in an enzyme engineering campaign to optimize the endonuclease NucB. Across 4 rounds of data collection, ML-designed libraries show improved hit rate and diversity compared to directed evolution.
