@@ -5,7 +5,7 @@ date:   2025-01-25 06:21:59 +00:00
 image: images/esm3.png
 categories: highlights
 author: "Neil Thomas"
-authors: "Thomas Hayes*, Roshan Rao*, Halil Akin*, Nicholas James Sofroniew*, Deniz Oktay*, Zeming Lin*, Robert Verkuil*, Vincent Quy Tran, Jonathan Deaton, Marius Wiggert, Rohil Badkundri, Irhum Shafkat, Jun Gong, Alexander Derry, Raul Santiago Molina, Neil Thomas, Yousuf Khan, Chetan Mishra, Carolyn Kim, Liam J. Bartie, Patrick D. Hsu, Tom Sercu, Salvatore Candido, Alexander Rives"
+authors: "Thomas Hayes*, Roshan Rao*, Halil Akin*, Nicholas James Sofroniew*, Deniz Oktay*, Zeming Lin*, Robert Verkuil*, Vincent Quy Tran, Jonathan Deaton, Marius Wiggert, Rohil Badkundri, Irhum Shafkat, Jun Gong, Alexander Derry, Raul Santiago Molina, <u>Neil Thomas</u>, Yousuf Khan, Chetan Mishra, Carolyn Kim, Liam J. Bartie, Patrick D. Hsu, Tom Sercu, Salvatore Candido, Alexander Rives"
 venue: "Science"
 paper: https://www.science.org/doi/10.1126/science.ads0018
 code: https://github.com/evolutionaryscale/esm
