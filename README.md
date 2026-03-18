@@ -1,6 +1,22 @@
 Neil Thomas's personal website. Built off of https://github.com/leonidk/leonidk.github.io.
 
-Run
+
+Install ruby and jekyll
+Mac: https://jekyllrb.com/docs/installation/macos/
+
+
+Following these local development instructions https://github.com/barryclark/jekyll-now?tab=readme-ov-file#local-development
+```
+gem install github-pages
+```
+
+
+```
+bundle init
+bundle add jekyll jekyll-sitemap
+```
+
+Then run
 
 ```
 bundle exec jekyll serve
