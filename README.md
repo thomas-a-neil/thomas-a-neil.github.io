@@ -6,12 +6,13 @@ Install ruby and jekyll ([macOS instructions](https://jekyllrb.com/docs/installa
 
 Set up Jekyll with these [local development instructions](https://github.com/barryclark/jekyll-now?tab=readme-ov-file#local-development)
 
-Then create the gemfiles with:
+Then install the necessary dependencies
+
 ```
 gem install github-pages
 ```
 
-
+Initialize the gemfiles:
 ```
 bundle init
 bundle add jekyll jekyll-sitemap
