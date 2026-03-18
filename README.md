@@ -1,11 +1,12 @@
 Neil Thomas's personal website. Built off of https://github.com/leonidk/leonidk.github.io.
 
 
-Install ruby and jekyll
-Mac: https://jekyllrb.com/docs/installation/macos/
+Install ruby and jekyll ([macOS instructions](https://jekyllrb.com/docs/installation/macos/))
 
 
-Following these local development instructions https://github.com/barryclark/jekyll-now?tab=readme-ov-file#local-development
+Set up Jekyll with these [local development instructions](https://github.com/barryclark/jekyll-now?tab=readme-ov-file#local-development)
+
+Then create the gemfiles with:
 ```
 gem install github-pages
 ```
