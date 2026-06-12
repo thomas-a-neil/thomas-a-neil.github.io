@@ -12,4 +12,4 @@ code: https://github.com/google-deepmind/nuclease_design
 twitter: https://x.com/countablyfinite/status/1899867103659950587
 talk: https://www.youtube.com/watch?v=eGNERw_nKQM
 ---
-Introduces TeleProt, a framework for guiding protein library design with machine learning that leverages evolutionary and experimental data. Validates TeleProt in an enzyme engineering campaign to optimize the endonuclease NucB. Across 4 rounds of data collection, ML-designed libraries show improved hit rate and diversity compared to directed evolution.
+Introduces TeleProt, a framework for guiding protein library design with machine learning that leverages evolutionary and experimental data. Validated in an enzyme engineering campaign to optimize the endonuclease NucB. Across four rounds, ML-designed libraries show improved hit rate and diversity compared to directed evolution - the first head-to-head comparison of its kind.
