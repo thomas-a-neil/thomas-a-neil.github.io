@@ -12,4 +12,4 @@ code: https://github.com/Biohub/esm
 talk: https://www.youtube.com/watch?v=4g1bURdKN0Q
 twitter: https://x.com/proteinrosh/status/2059633089702240598
 ---
-Introduces ESM Cambrian (ESMC), a 6B parameter protein language model trained on over 2B  sequences. Introduces ESMFold2, a state of the art single sequence folding model which uses an ESMC backbone. Validates inversion of ESMFold2 for the design of nanomminiprotein and scFv binders with nanomolar affinities. Introduces the ESM Atlas, a map of 6.8B sequences and 1.1B predicted structures connected through interpretable features derived from ESMC's latent space.
+Introduces ESM Cambrian (ESMC), a 6B parameter protein language model trained on over 2B  sequences. Introduces ESMFold2, a state of the art single sequence folding model which uses an ESMC backbone. Validates inversion of ESMFold2 for the design of miniprotein and scFv binders with nanomolar affinities. Introduces the ESM Atlas, a map of 6.8B sequences and 1.1B predicted structures connected through interpretable features derived from ESMC's latent space.
